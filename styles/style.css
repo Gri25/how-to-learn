@@ -26,6 +26,12 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
+  background-color: #2f80ed;
+  position: absolute;
+  right: 0;
+  top: 64px;
+  width: 568px;
+  height: 568px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
@@ -81,15 +87,6 @@
   right: 0;
   height: 608px;
   width: 765px;
-}
-
-.header__square-pic {
-  background-color: #2f80ed;
-  position: absolute;
-  right: 0;
-  top: 64px;
-  width: 568px;
-  height: 568px;
 }
 
 .description {
@@ -275,10 +272,10 @@
 
 }
 
-/*ЭТОТ МОДИФИКАТОР НЕ ПРИГОДИЛСЯ*/
+/*ЭТОТ МОДИФИКАТОР НЕ ПРИГОДИЛСЯ
 .table__text_theme_dark {
-
 }
+*/
 
 .kaufman__triangle {
   position: absolute;
