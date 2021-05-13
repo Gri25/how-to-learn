@@ -8,7 +8,7 @@
   z-index: 1;
   text-decoration: none;
   color: #2f80ed;
-  transition: opacity .1s linear ;
+  transition: opacity .1s linear;
 }
 
 .feyman__link:hover {
