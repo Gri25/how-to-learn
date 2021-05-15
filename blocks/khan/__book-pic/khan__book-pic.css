@@ -2,7 +2,7 @@
   height: 608px;
   width: 620px;
   margin-right: 48px;
-  /*Я сделал но получилось не по брифу */
-  object-fit: contain;
-  object-position: left center;
+  /*Я сделал и теперь соответствует брифу!!! */
+  object-fit: cover;
+  object-position: top;
 }
